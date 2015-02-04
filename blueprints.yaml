@@ -10,7 +10,7 @@ homepage: https://github.com/nunopress/grav-plugin-jscomments
 #demo: http://grav-demo.nunopress.com/
 keywords: "jscomments, plugin, comments, services, disqus, intensedebate, facebook, muut"
 bugs: https://github.com/nunopress/grav-plugin-jscomments/issues
-docs: https://github.com/nunopress/grav-plugin-jscomments/REAMDE.md
+docs: https://github.com/nunopress/grav-plugin-jscomments/blob/develop/REAMDE.md
 license: MIT
 
 form:
