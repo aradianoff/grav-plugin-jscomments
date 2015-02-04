@@ -1,3 +1,9 @@
+# v1.2.3
+## 02/04/2015
+
+1. [](#bugfix)
+    * Update Plugin::mergeConfig() problem.
+
 # v1.2.2
 ## 02/04/2015
 
@@ -15,6 +21,8 @@
 
 1. [](#new)
     * Rewrite how to add jscomments to page/template. Now working with Twig function. Check the [README.md](README.md) for update.
+
+
 
 # v1.1.2
 ## 12/31/2014
