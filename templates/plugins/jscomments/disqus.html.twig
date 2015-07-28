@@ -1,6 +1,9 @@
 <div id="jscomments">
   <div id="disqus_thread"></div>
   <script type="text/javascript">
+    var disqus_config = function () { 
+        this.language = "{{ grav.language.getActive ?: default_lang }}";
+    };
     var disqus_shortname  = '{{ shortname|e }}'; // required: replace example with your forum shortname
     var disqus_title      = '{{ title|default(page.title)|e }}';
     var disqus_identifier = '{{ identifier|default(page.url(true))|e }}';
